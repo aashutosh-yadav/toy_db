@@ -1,6 +1,4 @@
-# A simple diagram on how db storage engine works
-
-- 
+- Diagram of how db storage engine works
 
 ```text
                         CLIENT APPLICATION
